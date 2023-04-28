@@ -1,0 +1,13 @@
+
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´≈ª¢
+f	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥∏ãÒ
+o	java:S116"ZRename this field "AddMobileNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑπÇ¶
+h	java:S116!"SRename this field "AddEmail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßä¨Ù
+l	java:S116$"RRename this field "AddPass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(∆ä€Ï˚ˇˇˇˇ
+c	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Á∆“
+ç
+java:S1130)"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¶Á∆“
+I
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ˇäﬁõ
+P
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(∆ôÅ˛

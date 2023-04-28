@@ -1,0 +1,15 @@
+
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·à´Á
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¡¢Àÿÿÿÿÿ
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÑ½œøÿÿÿÿ
+q	java:S116 "WRename this field "Icon_Account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ë°éÿÿÿÿÿ
+l	java:S116#"WRename this field "Show_Account" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¨îŸ
+h	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä”¦ üÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(Ô…ÇÛøÿÿÿÿ
+Q	java:S125("<This block of commented-out lines of code should be removed.(Ï”Ä¯
+V	java:S125*"<This block of commented-out lines of code should be removed.(ëÆÓ«ÿÿÿÿÿ
+V	java:S125,"<This block of commented-out lines of code should be removed.(ª¹ð•ýÿÿÿÿ
+Q	java:S125."<This block of commented-out lines of code should be removed.(ˆ¸Ì‘
+Q	java:S125N"<This block of commented-out lines of code should be removed.(ÞéÎï
+Y
+java:S1128">Remove this unused import 'dev.failsafe.internal.util.Assert'.(Ýå“žÿÿÿÿÿ
